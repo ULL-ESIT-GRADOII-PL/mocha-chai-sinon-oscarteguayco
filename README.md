@@ -16,3 +16,6 @@ En esta práctica se añaden pruebas con Karma y Travis a la práctica anterior 
 * [Web Teguayco Gutiérrez González](http://alu0100825503.github.io/)
 * [Web Óscar David  Martín Cabrera](http://oscar-dmc.github.io/)
 
+**Enunciado de la práctica**
+
+*[Práctica Karma y Travis](https://campusvirtual.ull.es/1516/mod/page/view.php?id=184132)
