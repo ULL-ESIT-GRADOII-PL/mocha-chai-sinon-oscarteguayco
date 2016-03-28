@@ -1,7 +1,6 @@
-# Práctica Mocha y Chai
+# Karma y Travis
 
-Se realizan pruebas a la práctica anterior de "Eliminación del Switch Smell" utilizando Mocha y Chai. Además, se añade un gulpfile
-para la automatización de tareas (minify, para compactar ficheros; y clean para limpiar el directorio destino de los ficheros compactados).
+En esta práctica se añaden pruebas con Karma y Travis a la práctica anterior de 'Mocha, Chai y Sinon'.
 
 
 **Repositorio GitHuB**
