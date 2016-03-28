@@ -7,9 +7,9 @@ En esta práctica se añaden pruebas con Karma y Travis a la práctica anterior 
 
 * [Repositorio de la práctica](https://github.com/ULL-ESIT-GRADOII-PL/mocha-chai-sinon-oscarteguayco)
 
-**Página de la práctica**
+**Aula virtual de la asignatura**
 
-* [HTML Coversor](http://alu0100825503.github.io/eliminacion-del-switch-oscarteguayco/)
+* [PPLL](https://campusvirtual.ull.es/1516/course/view.php?id=178)
 
 **Páginas de los desarrolladores**
 
@@ -18,4 +18,4 @@ En esta práctica se añaden pruebas con Karma y Travis a la práctica anterior 
 
 **Enunciado de la práctica**
 
-*[Práctica Karma y Travis](https://campusvirtual.ull.es/1516/mod/page/view.php?id=184132)
+* [Práctica Karma y Travis](https://campusvirtual.ull.es/1516/mod/page/view.php?id=184132)
